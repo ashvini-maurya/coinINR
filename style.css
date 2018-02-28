@@ -1,0 +1,42 @@
+.home-img {
+    width: 100%;
+}
+
+li {
+    margin-right: 30px;
+}
+
+li a {
+    color: #FEA800;
+}
+
+.section1 {
+    position: relative;
+}
+
+.subscibe {
+    padding: 10px;
+    position: absolute;
+    top: 80px;
+    left: 100px;
+    width: 500px;
+    height: 250px;
+    background-color: white;
+    border: 1px solid grey;
+}
+
+.join-us {
+    font-family: 'Anton', sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+.section2 {
+    margin-top: 100px;
+}
+
+h4, p {
+    color: #FEA800;
+}
