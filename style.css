@@ -29,14 +29,54 @@ li a {
     font-family: 'Anton', sans-serif;
 }
 
-h1 {
+h1, h3 {
     text-align: center;
+    font-family: 'Anton', sans-serif;
 }
 
 .section2 {
-    margin-top: 100px;
+    margin-top: 130px;
+    /* giving left margin because the content were looking align respective to right */
+    margin-left: 12%;
 }
 
 h4, p {
     color: #FEA800;
+}
+
+.item{
+    background-color:#ccc;
+    display:block;
+}
+
+.carousel-caption{
+    color:#000;
+    position:static;
+}
+
+.carousel-control-prev-icon, .carousel-control-next-icon {
+    background-color: #FEA800;
+}
+
+.testimonials {
+    padding-left: 150px;
+    padding-right: 150px;
+}
+
+.learn-more {
+    background-color: #FEA800;
+}
+
+.section1-para2 {
+    position: absolute;
+    bottom: 60px;
+    color: white;
+    margin-left: 30%;
+    text-align: center; 
+    vertical-align: middle;
+}
+
+.section4 {
+    margin-top: 60px;
+    margin-bottom: 60px;
 }
